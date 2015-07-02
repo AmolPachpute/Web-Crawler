@@ -1,0 +1,28 @@
+Internet Packs
+Amount,Talktime,Validity,Description
+
+15,0,3 Days,Get 75 MB 2G data usage
+24,0,3 Days,100 MB 3G data usages free
+26,0,5 Days,Get 130 MB 2G data usage
+31,0,5 Days,Get 160 MB Free of 2G data usage.
+39,0,7 Days,150 MB Free of 3G data usages
+52,0,30 Days,Get 200 MB(2G) data usage Post Free usage charges of 10p/10KB apply
+56,0,10 Days,Get 300 MB(2G) data usage Post Free usage charges of 10p/10KB apply
+89,0,15 Days,400 MB 3G data usages free
+95,0,21 Days,600 MB 2G data usages
+126,0,21 Days,750 MB 2G data usage free
+128,0,30 Days,600 MB 3G data usages free
+135,0,30 Days,1.25 GB 2G data usage free
+136,0,60 Days,500 MB 2G data usage free
+149,0,30 Days,1024 MB 2G data usages
+155,0,21 Days,750 MB 3G data usages free
+156,0,60 Days,500 MB 3G data usages free
+189,0,30 Days,1.2 GB (1228 MB) 3G data usages free
+205,0,30 Days,1229 MB 3G data usages free
+249,0,60 Days,2048 MB (2G) data usage Post Free usage charges of 10p/10KB apply
+255,0,30 Days,1536 MB 3G data usages free
+351,0,60 Days,2304 MB Free of 3G Data Usage .Post Bundled Usage charges would be 10 paise/10 KB.
+445,0,30 Days,3.5 GB 3G data usages free
+447,0,90 Days,3072 MB 3G data usages free (1GB per month)
+695,0,30 Days,5120 MB Free of 3G Data Usage .Post Bundled Usage charges would be 10 paise/10 KB.
+995,0,30 Days,8192 MB 3G data usages free
