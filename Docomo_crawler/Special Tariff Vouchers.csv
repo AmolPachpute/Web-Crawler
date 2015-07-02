@@ -1,0 +1,29 @@
+Special Tariff Vouchers
+Amount,Talktime,Validity,Description
+
+12,0,3 Days,30 mins. of Local & STD mobile mins.
+14,0,30 Days,All STD mobile calls @ 30p/ min. 1st 2 mins. @ 2p/ sec. daily
+18,0,30 Days,Local Tata Docomo to Tata Docomo mobile calls @ 10p/ min.     1st 2 mins. @ 2p/ sec. daily
+29,0,30 Days,All Local and STD mobile calls @ 30p/ min.     1st 2 mins. charged @ 2p/ sec.
+33,0,90 Days,All STD mobile calls @ 30p/ min. with daily 1st 2 mins. charged @ 2p/ sec.
+37,0,30 Days,40000 secs. (666 mins.) for Local Tata Docomo to Tata Docomo calls     Daily 2 mins. charged @ 2p/ sec.
+38,0,30 Days,All Local mobile calls @ 30p/ min.
+41,0,30 Days,All STD mobile calls @ 1p/ 2secs.
+44,0,90 Days,All Local mobile calls @ 30p/ min. with daily 1st 2 mins. charged @ 2p/ sec.
+45,0,60 Days,All Local mobile calls @ 1.2p/ 2secs.     1st 2 mobile mins. @ 2p/ sec. daily +      All STD mobile calls @ 1.23p/ 2secs.     1st 2 mobile mins. @ 2p/ sec. daily
+49,0,30 Days,All Local and STD Calls @ 1.2p/2sec (36p/min)
+59,0,7 Days,7200 Local & STD mobile secs.
+66,0,90 Days,All Local and STD mobile calls @ 30p/ min. 1st 2 mins. charged @ 2p/ sec.
+67,0,30 Days,Local Tata Docomo to Tata Docomo calls @ 1p/ 6secs. (10p/ min.)
+68,0,14 Days,20 Hours of Local Tata Docomo to Tata Docomo calls.     Peak Hour of 6PM - 10PM charged @ 60p/ min. (1p/ sec.) for Tata Docomo to Tata Docomo calls and 1.2p/ secs. for Tata Docomo to other networks calls
+69,0,30 Days,All Local and STD mobile calls @ 1p/ 2secs. (30p/ min.)
+77,0,30 Days,40000 secs. (667 mins.) for Local Tata Docomo to Tata Docomo calls
+99,0,90 Days,All STD mobile calls @ 1p/ 2secs.
+107,0,15 Days,36000 secs. (600 mins.) for Local Tata Docomo to Tata Docomo calls     12000 secs. (200 mins.) for Local Tata Docomo to other networks calls
+123,0,21 Days,20 Hours of Local Tata Docomo to Tata Docomo calls.     Peak Hour of 6PM - 10PM charged @ 60p/ min. (1p/ sec.) for Tata Docomo to Tata Docomo calls and 1.2p/ secs. for Tata Docomo to other networks calls
+129,0,90 Days,All Local and STD Calls @ 1.2p/2sec (36p/min)
+163,0,28 Days,Unlimited Local Tata Docomo to Tata Docomo mobile calls from 10pm to 6pm     Local Tata Docomo to Tata Docomo mobile calls @ 1p/ sec. from 6pm to 10pm     Local Tata Docomo to other networks mobile calls @ 1.2p/ sec. +      STD Tata Docomo to other networks mobile calls @ 1.2p/ sec.     All STD Landline calls @ 2p/ sec.
+197,0,30 Days,1200 Local Tata Docomo to Tata Docomo mins. & 400 Local Tata Docomo to other networks mins.
+199,0,30 Days,550 Local & STD mobile mins.
+247,0,30 Days,2000 mins. for Local Tata Docomo to Tata Docomo calls     500 mins. for Local/ STD Tata Docomo to other networks calls
+666,0,28 Days,150000 Local secs. to any Network @ 0p/ sec.     After 150000 secs. Local calls @ 1.5p/ sec.
