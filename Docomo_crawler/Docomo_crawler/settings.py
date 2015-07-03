@@ -8,7 +8,7 @@
 #     http://doc.scrapy.org/en/latest/topics/settings.html
 #
 
-# http://www.plansinfo.com/tata-docomo.html
+
 
 BOT_NAME = 'Docomo_crawler'
 
