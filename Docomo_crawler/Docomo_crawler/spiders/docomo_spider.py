@@ -12,7 +12,7 @@ class DocomoSpider(scrapy.Spider):
 
     def parse(self, response):
 
-        filename = response.url.split("/")[-2] + '.html'
+        #filename = response.url.split("/")[-2] + '.html'
         plans_list = [str(i) for i in response.selector.xpath("//h3/text()").extract()[:6]]
         titles_list = [str(i) for i in response.selector.xpath("//table/tr/th/b/text()").extract()[0:4]]
 
