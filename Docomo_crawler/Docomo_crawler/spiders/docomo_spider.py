@@ -26,6 +26,7 @@ class DocomoSpider(scrapy.Spider):
 
             #ipdb.set_trace()
             for table_row in response.selector.xpath("//table["+str(index+1)+"]//tr").extract():
+                #convert to object of HtmlResponse
                 row_response_object = HtmlResponse(url="", body=str(table_row))
                 list1 = [str(i) for i in row_response_object.selector.xpath("//td/text()").extract()]
                 writer_obj.writerow(list1)
